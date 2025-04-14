@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/&saveurprogress=anuraghazra&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME+TO+MY+PROFILE;take+a+look+around🙂)](https://git.io/typing-svg)
 
 <!--
 **saveurprogress/saveurprogress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
